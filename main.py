@@ -21,6 +21,7 @@ Sources:
 - https://www.wikihow.com/Program-a-Game-in-Python-with-Pygame (Research)
 - https://www.youtube.com/watch?v=FfWpgLFMI7w&ab_channel=freeCodeCamp.org (Research)
 - https://www.geeksforgeeks.org/how-to-create-buttons-in-a-game-using-pygame/ (Research)
+- https://piratesonline.fandom.com/wiki/Poker (Reference)
 """
 # Imports
 from Game import Player, Robot, Hand, Deck, Pot, CommunityCards
