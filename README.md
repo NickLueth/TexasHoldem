@@ -9,7 +9,7 @@ You play as a player against 3 bots. The rules are the same as regular Texas Hol
 
 ## HOW TO SETUP: (ONLY WORKS FOR WINDOWS CURRENTLY)
 1. Download the .zip file.
-2. Make sure you download Python3, either at their website or on the microsoft store for free. (https://www.python.org/) 
+2. Make sure you download Python3, either at their website or on the microsoft store for free. (https://www.python.org/) <br>
 I recommend the microsoft store because it automatically sets up pip, which you'll need.
 3. After that's done, run the SETUP.bat and wait for the dependencies to download.
 4. Then you should be able to play the game if you double click on main.py.
